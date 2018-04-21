@@ -11,6 +11,9 @@
     <OutputPath>.</OutputPath>
     <Name>TwitterSentiment</Name>
     <RootNamespace>TwitterSentiment</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>"MRCh0g6rsu97B8Q1mYyJcQdPM" "66gNlUa3KyFy0LYz1W6w0qfdmNydzHuj6G5ePFAenWAiyNq69o" "2725621934-kxI08KpuL5350ZXoKUaBBnwhSCJEtcWMZzTwa8r" "Gcyu19jL6M0Lc4zka2psfuDoczqgTlW59P4ilbQeTNCzS"</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
